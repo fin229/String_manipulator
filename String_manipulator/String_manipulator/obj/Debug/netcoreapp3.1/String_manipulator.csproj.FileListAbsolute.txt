@@ -1,0 +1,14 @@
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\bin\Debug\netcoreapp3.1\String_manipulator.exe
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\bin\Debug\netcoreapp3.1\String_manipulator.deps.json
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\bin\Debug\netcoreapp3.1\String_manipulator.runtimeconfig.json
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\bin\Debug\netcoreapp3.1\String_manipulator.runtimeconfig.dev.json
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\bin\Debug\netcoreapp3.1\String_manipulator.dll
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\bin\Debug\netcoreapp3.1\String_manipulator.pdb
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\obj\Debug\netcoreapp3.1\String_manipulator.csproj.AssemblyReference.cache
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\obj\Debug\netcoreapp3.1\String_manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\obj\Debug\netcoreapp3.1\String_manipulator.AssemblyInfoInputs.cache
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\obj\Debug\netcoreapp3.1\String_manipulator.AssemblyInfo.cs
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\obj\Debug\netcoreapp3.1\String_manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\obj\Debug\netcoreapp3.1\String_manipulator.dll
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\obj\Debug\netcoreapp3.1\String_manipulator.pdb
+C:\Users\Fineas\OneDrive\Desktop\String_manipulator\String_manipulator\String_manipulator\obj\Debug\netcoreapp3.1\String_manipulator.genruntimeconfig.cache
