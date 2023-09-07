@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 
 namespace String_manipulator
@@ -23,6 +24,18 @@ namespace String_manipulator
             static string UpperToLower(string input)
             {
                 return input.ToLower();
+            }
+
+            static int NumberOfChar(string input)
+            {
+                string[] res=input.Split();
+                return res.Length;
+            }
+
+            static string RemoveWhiteSpace(string input)
+            {
+                string res=String.Concat(input.Where(c => !Char.IsWhiteSpace(c)));
+                return res;
             }
         }
     }
